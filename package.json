@@ -1,0 +1,24 @@
+{
+  "name": "inode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node 1/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlxg/iNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlxg/iNode/issues"
+  },
+  "homepage": "https://github.com/mlxg/iNode#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "colors": "^1.4.0"
+  }
+}
